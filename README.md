@@ -1,6 +1,6 @@
 # JavaScript-Week-5-Lab-2-day-1
 JavaScript Week 5 Lab 2/day-1
-[]Create your own webpage with at least 3 pages and 3 js script files. (4 pages if you include index.html)
+[x]Create your own webpage with at least 3 pages and 3 js script files. (4 pages if you include index.html)
 
 []Each page should have a header paragraph and button. The button will use JavaScript to change the text of the header and paragraph by changing its innerHTML.
 
