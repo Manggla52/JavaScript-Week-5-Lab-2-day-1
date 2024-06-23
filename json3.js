@@ -1,5 +1,6 @@
-function truckChanger (){
-    whtAboutTrucksHeader.innerHTML = "I like the Chevy Silverado!";
-    yourFavTruckPara.innerHTML = "I am a Heavy Chevy Man!!!";
+function truckChanger(){
+   
+    yourFavTruckHeader.innerHTML = "Chevy Silverad!";
+    yourFavTruckPara.innerHTML = "A Heavy Chevy Man!";
 }
-mytruckSwpButtn.oneclick = truckChanger;
+truckSwpButtn.onclick = truckChanger;
